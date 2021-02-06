@@ -1,6 +1,6 @@
 ---
 layout: page
-title: misc
+title: Misc
 permalink: /misc/
 nav: true
 ---
