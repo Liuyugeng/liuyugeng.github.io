@@ -1,6 +1,6 @@
 ---
 layout: page
-title: vitae
+title: Vitae
 permalink: /liuyugeng.pdf
 nav: true
 ---
