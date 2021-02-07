@@ -10,6 +10,7 @@ email:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Ph.D. Student, CISPA
 footer_text: >
+  Theme by <a href="https://github.com/alshedivat/al-folio" target="_blank" style="color:black">al-folio</a>.
 
 url:  # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
