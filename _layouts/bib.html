@@ -37,7 +37,13 @@
                 <em style="color:darkcyan;">{{author.first}} {{author.last}}</em>,
               {% else %}
                 {% if site.data.coauthors[author.last] %}
-                  <a href="{{site.data.coauthors[author.last].url}}" target="_blank">{{author.last}}, {{author.first}}</a>,
+                  {% for coauthor in site.data.coauthors[author.last] %}
+                    {% if coauthor.firstname == author.first %}
+                      <a href="{{coauthor.url}}" target="_blank">{{author.first}} {{author.last}}</a>,
+                      {% break %}
+                    {% endif %}
+                    {{author.first}} {{author.last}},
+                  {% endfor %}
                 {% else %}
                   {{author.first}} {{author.last}},
                 {% endif %}
@@ -47,7 +53,13 @@
                 <em style="color:darkcyan;">{{author.first}} {{author.last}}</em>
               {% else %}
                 {% if site.data.coauthors[author.last] %}
-                  <a href="{{site.data.coauthors[author.last].url}}" target="_blank">{{author.last}}, {{author.first}}</a>
+                  {% for coauthor in site.data.coauthors[author.last] %}
+                    {% if coauthor.firstname == author.first %}
+                      <a href="{{coauthor.url}}" target="_blank">{{author.first}} {{author.last}}</a>
+                      {% break %}
+                    {% endif %}
+                    {{author.first}} {{author.last}}
+                  {% endfor %}
                 {% else %}
                   {{author.first}} {{author.last}}
                 {% endif %}

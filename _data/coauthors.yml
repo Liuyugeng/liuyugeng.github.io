@@ -1,18 +1,23 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Zhu":
+  - firstname: "Haojin"
+    url: https://nsec.sjtu.edu.cn/~hjzhu
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Backes":
+  - firstname: "Michael"
+    url: https://cispa.de/en/people/backes
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Cristofaro": 
+  - firstname: "Emiliano De"
+    url: https://emilianodc.com/
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Fritz":
+  - firstname: "Mario"
+    url: https://cispa.saarland/group/fritz/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Zhang":
+  - firstname: "Yinqian"
+    url: http://yinqian.org/
+
+"Zhang":
+  - firstname: "Yang"
+    url: https://yangzhangalmo.github.io
