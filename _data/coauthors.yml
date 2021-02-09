@@ -1,23 +1,25 @@
-"Zhu":
-  - firstname: "Haojin"
-    url: https://nsec.sjtu.edu.cn/~hjzhu
+[
+{ first: "Haojin",
+  last:  "Zhu",
+  url: https://nsec.sjtu.edu.cn/~hjzhu},
 
-"Backes":
-  - firstname: "Michael"
-    url: https://cispa.de/en/people/backes
+{ first: "Michael",
+  last:  "Backes",
+  url: https://cispa.de/en/people/backes},
 
-"Cristofaro": 
-  - firstname: "Emiliano De"
-    url: https://emilianodc.com/
+{ first: "Emiliano De",
+  last:  "Cristofaro",
+  url: https://emilianodc.com/},
 
-"Fritz":
-  - firstname: "Mario"
-    url: https://cispa.saarland/group/fritz/
+{ first: "Mario",
+  last:  "Fritz",
+  url: https://cispa.saarland/group/fritz/},
 
-"Zhang":
-  - firstname: "Yinqian"
-    url: http://yinqian.org/
+{ first: "Yinqian",
+  last:  "Zhang",
+  url: http://yinqian.org/},
 
-"Zhang":
-  - firstname: "Yang"
-    url: https://yangzhangalmo.github.io
+{ first: "Yang",
+  last:  "Zhang",
+  url: https://yangzhangalmo.github.io}
+]
