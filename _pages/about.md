@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Ph.D. Student <i class="fa fa-at" style="color:grey"></i> CISPA<br>Stuhlsatzenhausweg 5<br>66123, Saarbrücken, Germany
+description: <b>Ph.D. Student</b> <i class="fa fa-at" style="color:grey"></i> <b>CISPA</b><br>Stuhlsatzenhausweg 5<br>66123, Saarbrücken, Germany
 
 profile:
   align: # right
