@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Ph.D. Student @ CISPA<br>Stuhlsatzenhausweg 5<br>66123, Saarbrücken, Germany
+description: Ph.D. Student <i class="fa fa-at" style="color:grey"></i> CISPA<br>Stuhlsatzenhausweg 5<br>66123, Saarbrücken, Germany
 
 profile:
   align: # right
@@ -16,11 +16,11 @@ social: false  # includes social icons at the bottom of the page
 <br>
 <h5><b><font color="#2d96bd">|</font> Short Bio </b></h5>
 <a href="https://clustrmaps.com/site/1bdhh" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=dTUItLsWWnKuhDjMkv381LXzjKeeQ3mh17sUDgYaFPQ&cl=ffffff" style='display:none'></a>
-<p style="text-align:justify;">I will be a Ph.D. student at <a target="_blank" href="https://cispa.de/">CISPA Helmholtz Center for Information Security</a> in March 2021, co-supervised by <a target="_blank" href="https://cispa.de/en/people/backes">Prof. Michael Backes</a> and  <a target="_blank" href="https://yangzhangalmo.github.io/">Dr. Yang Zhang</a>. Prior to joining CISPA, I was at Ph.D. preparatory phase in Saarland University and I graduated from <a target="_blank" href="https://www.sjtu.edu.cn/">Shanghai Jiao Tong University (SJTU)</a> with the Bachelor&#39;s degree of Computer Science and Technology in 2018. During my undergraduate study, I had been working at <a target="_blank" href="https://nsec.sjtu.edu.cn/">Network Security and Privacy Protection (NSEC) Lab</a>, supervised by <a target="_blank" href="https://nsec.sjtu.edu.cn/~hjzhu">Prof. Haojin Zhu</a>, for about 2 years.</p>
+<p style="text-align:justify;">I am a first-year Ph.D. student at <a target="_blank" href="https://cispa.de/">CISPA Helmholtz Center for Information Security</a>, co-supervised by <a target="_blank" href="https://cispa.de/en/people/backes">Michael Backes</a> and  <a target="_blank" href="https://yangzhangalmo.github.io/">Yang Zhang</a>. Prior to joining CISPA, I graduated from <a target="_blank" href="https://www.sjtu.edu.cn/">Shanghai Jiao Tong University (SJTU)</a> with the Bachelor&#39;s degree of Computer Science and Technology in 2018. During my undergraduate study, I had been working at <a target="_blank" href="https://nsec.sjtu.edu.cn/">Network Security and Privacy Protection (NSEC) Lab</a>, supervised by <a target="_blank" href="https://nsec.sjtu.edu.cn/~hjzhu">Haojin Zhu</a>, for about 2 years.</p>
 
 <h5><b><font color="#2d96bd">|</font> Research Interests</b></h5>
 
-<p style="text-align:justify;">I am interested in different areas of security &amp; privacy, including AI security &amp; privacy, mobile security, IoT security, etc.</p>
+<p style="text-align:justify;">My research interests lie in the areas of hardware security, IoT security and machine learning security &amp; privacy.</p>
 <p style="text-align:justify;">Download C.V.&nbsp;<a href="/assets/files/liuyugeng.pdf" title="Curriculum Vitae"><i class="fa fa-arrow-alt-circle-down" style="color: #2DA4E1"></i></a></p>
 <br>
 <h5><b><font color="#2d96bd">|</font> Experiences</b></h5>
